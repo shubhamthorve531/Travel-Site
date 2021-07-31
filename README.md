@@ -1,7 +1,7 @@
 
-# Project Title
+# Travel-Site
 
-A brief description of what this project does and who it's for
+A beautiful, custom landing page for a Travel website using HTML, CSS and a little JavaScript
 
 
 ## Screenshots
